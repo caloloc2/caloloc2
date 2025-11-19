@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, I'm Carlos! 👋
 
-<!--
-**caloloc2/caloloc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior AI & IoT Solutions Architect** based in Ecuador.
+I bridge the gap between **Hardware** (Sensors/Embedded), **Cloud** (AWS/Serverless), and **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Arsenal
+* **Cloud & DevOps:** AWS (Lambda, API Gateway, IoT Core, S3), Linux Admin.
+* **Backend:** Node.js (Advanced), Python (Data Science/Scripting), PHP.
+* **AI & Data:** Computer Vision (OpenCV), Generative AI (LLMs), Big Data Analytics.
+* **IoT & Hardware:** Raspberry Pi, ESP32, MQTT, Industrial Protocols, Embedded C++.
+
+#### 🚀 Current Focus
+* Completing my **M.Sc. in Artificial Intelligence** & **M.Sc. in Big Data**.
+* Building **Cocolilo**, a generative AI platform for personalized children's storytelling.
+* Architecting serverless solutions for high-traffic booking engines.
+
+#### 📈 Stats
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=caloloc2&show_icons=true&theme=radical)
+
+#### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/carlos-mino-c2)
+* [Email](mailto:hola@calolomino.dev)
+* [Portfolio](https://calolomino.dev)
