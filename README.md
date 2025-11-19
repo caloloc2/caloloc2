@@ -16,9 +16,6 @@ I bridge the gap between **Hardware** (Sensors/Embedded), **Cloud** (AWS/Serverl
 * Building **Cocolilo**, a generative AI platform for personalized children's storytelling.
 * Architecting serverless solutions for high-traffic booking engines.
 
-#### 📈 Stats
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=caloloc2&show_icons=true&theme=radical)
-
 #### 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/carlos-mino-c2)
 * [Email](mailto:hola@calolomino.dev)
