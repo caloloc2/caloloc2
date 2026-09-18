@@ -67,25 +67,13 @@ I currently serve as **CTO @ Minova S.A.S.**, where I lead the technical strateg
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=caloloc2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caloloc2&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
-I'm always open to collaborating on **cloud architecture**, **AI/ML projects**, or **IoT solutions**. Feel free to reach out!
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Carlos_Miño-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-mino-dev)
-[![Website](https://img.shields.io/badge/calolomino.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://calolomino.dev)
-[![Gmail](https://img.shields.io/badge/calolomino@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calolomino@gmail.com)
+[![](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calolomino@gmail.com)
+[![](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17865462899)
+[![](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-mino-dev)
+[![](https://img.shields.io/badge/-000?style=for-the-badge&logo=vercel&logoColor=white)](https://calolomino.dev)
 
 </div>
